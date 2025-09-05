@@ -1,9 +1,9 @@
-#Sensei — AI Career Coach
+**Sensei — AI Career Coach**
 
 Sensei is a full-stack AI-powered career coach built with Next.js, React, and Tailwind CSS.
 It helps users build professional resumes, generate cover letters, practice mock interviews, and receive AI-driven feedback to level up their careers.
 
-#Table of Contents
+**Table of Contents**
 
 Features
 
@@ -16,10 +16,6 @@ Getting Started
 Environment Variables
 
 Usage
-
-Contributing
-
-Future Enhancements
 
 Acknowledgements
 
